@@ -9,6 +9,8 @@ Uma landing page moderna e minimalista com foco em layout, tipografia e organiza
 
 ## 👀 Preview
 
+<a>https://lucasleal-ti.github.io/Projeto-WeCare/</a>
+
 <p align="center">
   <img src="https://github.com/lucasleal-ti/Projeto-WeCare/blob/main/imagem/Desktop_WeCare.png?raw=true" width="900px">
 </p>
